@@ -1,7 +1,7 @@
 # Starting file for LAB 3-1
 # Include your course number, student first and last name, and date in the comment header
 
-# display a welcome message
+# display a Welcome message
 print("The Miles Per Gallon program")
 print()
 rerun_Program = "y"
