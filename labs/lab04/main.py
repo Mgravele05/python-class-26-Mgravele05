@@ -30,7 +30,7 @@ H:  Hard - uess from 1 - 1000, limit 10 attempts
         attempts = 10
     else:
         LIMIT = 1000000
-        attempts = 5
+        attempts = 2
 
     secret_number = random.randint(1, LIMIT)
     print(f"I am thinking of a number from  1 to {LIMIT}\n")
