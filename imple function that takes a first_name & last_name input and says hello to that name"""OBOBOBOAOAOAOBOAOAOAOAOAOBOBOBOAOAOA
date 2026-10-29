@@ -1,0 +1,4 @@
+Help on function say_hello in module nameformat:
+
+ssaayy__hheelllloo(first_name)
+    Definition: A simple function that takes a first_name input and says hello to that name
